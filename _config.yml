@@ -6,13 +6,9 @@ color:
   saturation: 0.3895843019708991
   rhythmicContrast: 0.06596057605929673
   brandColors:
-    - '#FFFFFF'
-    - '#DE2110'
-    - '#319400'
-    - '#A1A1A1'
-    - '#F6B3AC'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Italy 2016
-navigation:
-  - name: Top 10 Cities in Europe to Travel with Kids
-    id: bcd71c4b-ccb1-4127-b851-0862dc392802
-    type: content
