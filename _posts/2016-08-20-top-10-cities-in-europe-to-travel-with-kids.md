@@ -1,7 +1,5 @@
 ---
-datePublished: '2016-08-20T12:56:02.069Z'
-isBasedOnUrl: >-
-  http://www.escapehere.com/inspiration/top-10-cities-in-europe-to-travel-with-kids/2/
+datePublished: '2016-08-20T13:21:31.226Z'
 keywords:
   - kid
   - copenhagen
@@ -16,7 +14,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T12:55:49.010Z'
+dateModified: '2016-08-20T13:21:30.468Z'
 title: Top 10 Cities in Europe to Travel with Kids
 app_links: []
 publisher:
@@ -26,11 +24,10 @@ publisher:
   domain: www.escapehere.com
 description: Reykjavik
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-20-top-10-cities-in-europe-to-travel-with-kids.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: top-10-cities-in-europe-to-travel-with-kids/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
