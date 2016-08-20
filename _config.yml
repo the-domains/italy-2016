@@ -12,3 +12,7 @@ color:
     - '#A1A1A1'
     - '#F6B3AC'
 name: Italy 2016
+navigation:
+  - name: Top 10 Cities in Europe to Travel with Kids
+    id: bcd71c4b-ccb1-4127-b851-0862dc392802
+    type: content
